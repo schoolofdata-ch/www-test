@@ -10,10 +10,10 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
-facebook_username:
+email: info@schoolofdata.ch
+#facebook_username:
 twitter_username:
-github_username:
+github_username: schoolofdata-swiss
 address:
   - line:
   - line:
